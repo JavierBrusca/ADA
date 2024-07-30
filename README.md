@@ -10,12 +10,13 @@ Para compilar este proyecto, necesitas tener instalado el compilador GNAT. Puede
 ## Estructura del Proyecto
 
 El proyecto tiene la siguiente estructura:
+```
 ├── src
 │   ├── main.adb
 │   └── other_package.ads
 │   └── other_package.adb
 └── README.md
-
+```
 - `src/main.adb`: El archivo principal del programa.
 - `src/other_package.ads` y `src/other_package.adb`: Otros paquetes utilizados por el programa.
 
