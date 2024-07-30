@@ -58,7 +58,7 @@ Revisa los mensajes de error en la terminal para identificar y corregir cualquie
 ## Recursos
 
 - [Documentación de GNAT](https://www.adacore.com/documentation)
-- [Introducción a Ada]([https://en.wikibooks.org/wiki/Ada_Programming](https://learn.adacore.com/))
+- [Introducción a Ada](https://learn.adacore.com/)
 
 ```
 
