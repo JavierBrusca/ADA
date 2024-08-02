@@ -9,6 +9,7 @@ with tipos_subtipos;
 with strings;
 with strings2;
 
+
 -- estructuras condicionales y bucles
 with operadores;
 with tablas_de_multiplicar;
